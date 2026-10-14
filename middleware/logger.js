@@ -9,4 +9,4 @@ const logger = (req, res, next) => {
 
 }
 
-module.export = logger;
+module.exports = logger;
