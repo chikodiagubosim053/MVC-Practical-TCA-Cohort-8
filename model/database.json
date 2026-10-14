@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Elija",
+    "gender": "Female",
+    "isMarried": true
+  },
+  {
+    "name": "Jessica",
+    "gender": "Female",
+    "isMarried": true,
+    "id": 2
+  },
+  {
+    "name": "Peggy",
+    "gender": "Female",
+    "isMarried": true,
+    "id": 3
+  }
+]
